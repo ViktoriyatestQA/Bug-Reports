@@ -1,1 +1,2 @@
-# Bug-Reports
+# Bug-reports <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" >
+### This repository contains reports on found test artifacts, which are formatted in a bugtracking system Youtrack <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
